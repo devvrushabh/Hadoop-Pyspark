@@ -1,0 +1,9 @@
+name,year,sal,comm,city
+vinod,1998,67000,500,Bombay
+pooja,2000,68000,670,Hyderabad
+akash,1998,56000,500,Bombay
+pooja,2002,78000,50,Hyderabad
+akshay,2020,45000,100,Pune
+vinod,1999,27000,100,Bombay
+ram,2018,34000,150,Hyderabad
+akash,2004,46000,60,Bombay

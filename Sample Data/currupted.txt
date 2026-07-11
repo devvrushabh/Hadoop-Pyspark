@@ -1,0 +1,9 @@
+id,name,salary,city
+1,rahul,10000,bangalore
+2,umesh,20000,indore
+3,pawan,30000,bhopal
+4rohit,40000,pune
+5,rohan,50000,delhi
+6,ronak,noida,kolkatta
+7,ajaymumbai,chennai
+8,parth
